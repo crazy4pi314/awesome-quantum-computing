@@ -10,8 +10,6 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Contents
 
-- [Awesome Quantum Computing ![Awesome](https://awesome.re)](#awesome-quantum-computing-awesomehttpsawesomere)
-  - [Contents](#contents)
   - [Learning](#learning)
   - [MOOCs](#moocs)
   - [Development Tools](#development-tools)
